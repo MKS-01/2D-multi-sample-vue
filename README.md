@@ -1,6 +1,6 @@
 # 2D-multiplayer
 
-Basic concept covers
+Basic concept covered
 
 #### client
 
