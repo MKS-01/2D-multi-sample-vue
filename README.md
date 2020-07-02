@@ -1,8 +1,15 @@
 # 2D-multiplayer
 
-basic concept using websocket
+Basic concept using websocket
 
-run
+#### client
+
+vue.js
+socket.io
+
+#### server
+
+node.js + express + socket.io
 
 client
 
